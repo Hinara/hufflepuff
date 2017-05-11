@@ -1,6 +1,8 @@
 Hufflepuff
 ===============
 This is a theme for icewm.
+![Screenshot of the theme](http://i.imgur.com/ndbC9Uq.png)
+
 
 Install
 ----------------
