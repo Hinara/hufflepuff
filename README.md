@@ -1,4 +1,4 @@
-Hufflpuff
+Hufflepuff
 ===============
 This is a theme for icewm.
 
